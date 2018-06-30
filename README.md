@@ -7,7 +7,7 @@
 make help
 # fist run
 make createVenv
-# then each job
+# then print want job
 make venv
 ```
 
